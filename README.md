@@ -1,4 +1,4 @@
-# Literatura
+# Literalura
 
 Este proyecto es una aplicación de gestión de literatura desarrollada con Spring Boot. A continuación, se detalla la estructura del proyecto y algunas instrucciones básicas para su configuración y ejecución.
 
@@ -79,8 +79,7 @@ literatura
 
 1. Clona el repositorio:
    ```sh
-   git clone <URL_del_repositorio>
-   cd literatura
+git@github.com:castleortiz1/LiterAlutaLatam.git
    ```
 
 2. Compila y ejecuta la aplicación usando Maven:
